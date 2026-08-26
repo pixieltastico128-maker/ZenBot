@@ -3,7 +3,7 @@ const config = {
   ownerName: 'AXELDEV09',
   version: '8.0.0',
   prefix: /^[.#/!]/,
-  ownerNumber: ['573042198250'], // Cambia por tu número 
+  ownerNumber: ['14158892082'], // Cambia por tu número 
   phoneNumber: '', //Si estas en un entorno de desarrollo web, define el número que sera el bot aquí
   MODE: 'public',
   usePairingCode: true,
