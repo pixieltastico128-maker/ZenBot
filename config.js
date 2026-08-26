@@ -1,6 +1,6 @@
 const config = {
-  botName: 'ZΞN-BOT',
-  ownerName: 'AXELDEV09',
+  botName: 'Shorekeeper Bot',
+  ownerName: 'Angel',
   version: '8.0.0',
   prefix: /^[.#/!]/,
   ownerNumber: ['14158892082'], // Cambia por tu número 
