@@ -9,10 +9,10 @@ process.env.TMP = GLOBAL_TMP;
 
 export const ZenConfig = {
   prefix: '.',
-  botName: 'ZenBot',
-  ownerName: 'Axelix09',
+  botName: 'Shorekeeper bot',
+  ownerName: 'Angel',
   ownerInstagram: 'axelix09',
-  ownerNumbers: [], // Configurá acá los números autorizados.
+  ownerNumbers: [14159444850], // Configurá acá los números autorizados.
   botPhoneNumber: '', // Vacío para pedir el número al iniciar.
   publicBotMode: true,
   newsletterJid: '120363403631501323@newsletter',
